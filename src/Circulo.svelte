@@ -50,6 +50,7 @@
       transform-origin: center;
       transform: translateY(-50%);
     }
+    
   </style>
   
   <div class="controls">
